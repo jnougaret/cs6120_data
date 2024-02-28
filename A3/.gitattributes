@@ -1,3 +1,4 @@
 Arts_Crafts_and_Sewing_5.json.gz filter=lfs diff=lfs merge=lfs -text
 Video_Games_5.json.gz filter=lfs diff=lfs merge=lfs -text
 Office_Products_5.json.gz filter=lfs diff=lfs merge=lfs -text
+Patio_Lawn_and_Garden_5.json.gz filter=lfs diff=lfs merge=lfs -text
